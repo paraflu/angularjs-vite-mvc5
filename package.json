@@ -1,0 +1,20 @@
+{
+  "name": "netmvcangularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite build -w --mode=development",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular": "^1.8.7",
+    "angular": "^1.8.3",
+    "vite": "^4.5.0"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
